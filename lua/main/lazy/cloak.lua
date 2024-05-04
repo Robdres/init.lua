@@ -1,6 +1,6 @@
 return {
     "laytan/cloak.nvim",
-    config = function() 
+    cfnfig = function()
         require("cloak").setup({
             enabled = true,
             cloak_character = "*",
